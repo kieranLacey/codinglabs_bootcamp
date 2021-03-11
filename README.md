@@ -1,6 +1,6 @@
-# Heading 1
+# Coding Labs Bootcamp
 
-## Heading 2
+## Challenge 1
 
 * List 1
 * List 2
