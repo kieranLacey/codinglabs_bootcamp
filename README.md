@@ -1,4 +1,4 @@
-# Coding Labs Bootcamp
+# CodingLabs Bootcamp
 
 ## Challenge 1
 
