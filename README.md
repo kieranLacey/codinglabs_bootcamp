@@ -7,3 +7,7 @@
 * List 3
 
 [IMDB](https://imdb.com)
+
+***
+
+Changes done by JB for Challenge 2.
